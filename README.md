@@ -6,7 +6,7 @@
 2. Shanika Kadidal Sundresh - A20585446, skadidalsundresh@hawk.iit.edu
 3. Aung Kham Naung - A20491106, anaung@hawk.iit.edu
 
-# Steps to compile and run the assignment 4:
+# Steps to compile and run:
 
 1. 'make clean'
 2. 'make'
