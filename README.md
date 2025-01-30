@@ -1,4 +1,4 @@
-# Advanced Database Organisation (Fall 2024) - CS525 - Assignment 4 - B+ Tree
+# Advanced Database Organisation (Fall 2024) - Database Management System
 
 ## Group 18:
 
